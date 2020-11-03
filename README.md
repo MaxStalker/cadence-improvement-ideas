@@ -1,2 +1,2 @@
-# cadence-improvement-ideas
-Different ideas to improve Cadence and tooling around it
+# Cadence Improvement Ideas
+This repository outlines different ideas, that might improve `Developer Experience` (DX)
